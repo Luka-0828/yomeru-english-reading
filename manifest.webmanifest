@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "よめる！英語読解",
+  "short_name": "よめる！",
+  "description": "高校入試に向けた英語読解練習",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f9f7",
+  "theme_color": "#087e78",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
